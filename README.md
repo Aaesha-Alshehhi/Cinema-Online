@@ -55,23 +55,14 @@ The platform emphasizes **data-driven architecture**, **clean UI**, and **secure
 ## Screenshots & Diagrams
 
 
-| Feature             | Screenshot                                 | Code Preview                             |
-| ------------------- | ------------------------------------------ | ---------------------------------------- |
-| Site Map            | ![SiteMap](https://github.com/user-attachments/assets/94f27ff1-9a59-426c-9894-e10bc8be6aa0)
-     | N/A                                      |
-| Class Diagram       | <img width="1268" height="693" alt="RD" src="https://github.com/user-attachments/assets/e53c2584-ceec-4449-a3bd-43bbb54ad551" />
- | N/A                                      |
-| Security Plan Table | <img width="941" height="1069" alt="image" src="https://github.com/user-attachments/assets/6eb8f38c-fabe-4dcb-83fc-4975997de762" />
- | N/A                                      |
-| Login Page          | <img width="495" height="388" alt="image" src="https://github.com/user-attachments/assets/4781b8ce-39d8-4731-b029-2516e421b894" />
-   | <img width="528" height="388" alt="image" src="https://github.com/user-attachments/assets/5aa94013-0d1b-4932-9962-286714866586" />
- |
-| Movie Browse        | <img width="493" height="274" alt="image" src="https://github.com/user-attachments/assets/e10e204a-769d-4ca1-8f07-ed9246b630ee" />
- | <img width="559" height="476" alt="image" src="https://github.com/user-attachments/assets/8f6f23d0-95de-4562-87eb-7c22f2611e65" />
- |
- | Movie Details        | <img width="604" height="393" alt="image" src="https://github.com/user-attachments/assets/1bc6863f-4c1b-4b41-8783-430508c5cea6" />
- | <img width="619" height="611" alt="image" src="https://github.com/user-attachments/assets/61ba9f47-2cb1-493f-8269-de9bc6f08bb7" />
- |
+| Feature             | Screenshot                                 | 
+| ------------------- | ------------------------------------------ | 
+| Site Map            | ![SiteMap](https://github.com/user-attachments/assets/94f27ff1-9a59-426c-9894-e10bc8be6aa0) |
+| Class Diagram       | <img width="1268" height="693" alt="RD" src="https://github.com/user-attachments/assets/e53c2584-ceec-4449-a3bd-43bbb54ad551" /> |
+| Security Plan Table | <img width="941" height="1069" alt="image" src="https://github.com/user-attachments/assets/6eb8f38c-fabe-4dcb-83fc-4975997de762" /> |
+| Login Page          | <img width="495" height="388" alt="image" src="https://github.com/user-attachments/assets/4781b8ce-39d8-4731-b029-2516e421b894" /> |
+| Movie Browse        | <img width="493" height="274" alt="image" src="https://github.com/user-attachments/assets/e10e204a-769d-4ca1-8f07-ed9246b630ee" /> |
+ | Movie Details        | <img width="604" height="393" alt="image" src="https://github.com/user-attachments/assets/1bc6863f-4c1b-4b41-8783-430508c5cea6" /> |
 
 ---
 
